@@ -557,4 +557,10 @@ header section .social .icons a:hover{
         /* margin: 75px 0px 0p -30px; */
         /* left: -9%; */
     }
+    header section .cards{
+        top: 40%;
+    }
+    header section .social{
+        top: 40%;
+    }
 }
